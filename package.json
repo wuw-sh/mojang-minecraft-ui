@@ -1,14 +1,22 @@
 {
   "name": "mojang-minecraft-ui",
-  "version": "1.0.9",
-  "description": "Minecraft UI",
+  "version": "1.1.0",
+  "description": "Minecraft UI for Minecraft Bedrock Edition API",
   "main": "dist/index.d.ts",
-  "scripts": {
-    "i": "npm install"
-  },
+  "homepage": "https://github.com/wuw6248/mojang-minecraft-ui",
   "author": "@wuw6248 (https://github.com/wuw6248)",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuw6248/mojang-minecraft-ui.git"
+  },
+  "contributors": [
+    {
+      "name": "wuw6248",
+      "url": "https://github.com/wuw6248",
+      "githubUsername": "wuw6248"
+    }
+  ],
   "keywords": [
-    "minecraftui"
+    "mojang-minecraft-ui"
   ]
 }
