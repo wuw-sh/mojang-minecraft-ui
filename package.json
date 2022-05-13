@@ -1,0 +1,14 @@
+{
+  "name": "mojang-minecraft-ui",
+  "version": "1.0.9",
+  "description": "Minecraft UI",
+  "main": "dist/index.d.ts",
+  "scripts": {
+    "i": "npm install"
+  },
+  "author": "@wuw6248 (https://github.com/wuw6248)",
+  "license": "ISC",
+  "keywords": [
+    "minecraftui"
+  ]
+}
