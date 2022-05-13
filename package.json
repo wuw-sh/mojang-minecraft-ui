@@ -1,6 +1,6 @@
 {
   "name": "mojang-minecraft-ui",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Minecraft UI for Minecraft Bedrock Edition API",
   "main": "dist/index.d.ts",
   "homepage": "https://github.com/wuw6248/mojang-minecraft-ui",

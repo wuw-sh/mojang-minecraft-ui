@@ -1,6 +1,8 @@
 mojang-minecraft-ui Module
 ==========================
 
+View mojang-minecraft-ui wiki website [click here](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/mojang-minecraft-ui/mojang-minecraft-ui)
+
 ### In this article
 
 - [Classes](#classes)
