@@ -3,17 +3,17 @@
   "version": "1.1.9",
   "description": "Minecraft UI for Minecraft Bedrock Edition API",
   "main": "dist/index.ts",
-  "homepage": "https://github.com/wuw6248/mojang-minecraft-ui",
-  "author": "@wuw6248 (https://github.com/wuw6248)",
+  "homepage": "https://github.com/wuw-sh/mojang-minecraft-ui.git",
+  "author": "@wuw-sh (https://github.com/wuw-sh)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wuw6248/mojang-minecraft-ui.git"
+    "url": "https://github.com/wuw-sh/mojang-minecraft-ui.git"
   },
   "contributors": [
     {
-      "name": "wuw6248",
+      "name": "wuw-sh",
       "url": "https://github.com/wuw6248",
-      "githubUsername": "wuw6248"
+      "githubUsername": "wuw-sh"
     }
   ],
   "dependencies": {
