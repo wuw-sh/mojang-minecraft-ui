@@ -1,4 +1,2 @@
-export interface MessageFormResponse {
-    readonly selection?: number;
-    readonly isCanceled: boolean;
-}
+export interface MessageFormResponse extends FormResponse{}
+import {FormResponse} from './FormResponse'
