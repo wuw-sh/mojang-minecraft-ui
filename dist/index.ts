@@ -6,3 +6,5 @@ export * from './ActionFormResponse'
 
 export * from './MessageFormData'
 export * from './MessageFormResponse'
+
+export * from './FormResponse'

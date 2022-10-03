@@ -1,4 +1,4 @@
-export interface ModalFormResponse {
-    readonly formValues?: any[];
-    readonly isCanceled: boolean;
+export interface ModalFormResponse extends FormResponse{
+    readonly formValues: any[];
 }
+import {FormResponse} from './FormResponse'

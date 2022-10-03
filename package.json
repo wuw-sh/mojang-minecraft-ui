@@ -17,7 +17,7 @@
     }
   ],
   "dependencies": {
-    "@types/mojang-minecraft": "^0.1.5"
+    "@types/mojang-minecraft": "^0.1.7"
   },
   "publishConfig": {
     "access": "public"
